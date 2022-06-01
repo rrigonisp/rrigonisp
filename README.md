@@ -1,4 +1,4 @@
-# ☕Hi, I´m Rodrigo Rigoni. ☕ <br>
+# Hi, I´m Rodrigo Rigoni.  <br>
 
 ## 📘 📖 Welcome to my GitHub.  📑 📚 <br>
 
@@ -15,6 +15,8 @@
 <details>
   <sumary> 
 + I'm Student of Systems Analysis and Development : ☑️ <br>
++ Development Front-End Full Stack - HTML,CSS,JavaScript : ☑️ <br>
++ Development Automation Python (Pyautogui) : ☑️ <br>
 + I'm Also Learning: POO ➕ C ➕ C++ ➕ Java (Nivel Junior) <br>
 + I'm looking for internship : ☑️ <br>
 + Creative, With A Great Will To Learn: ☑️ <br>
