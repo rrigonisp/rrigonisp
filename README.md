@@ -12,8 +12,6 @@
 
 (Linktree)  = 👨‍🎓 = https://linktr.ee/rodrigorigoni123<br>
 
-<details>
-  <sumary> 
 + I'm Student of Systems Analysis and Development : ☑️ <br>
 + Development Front-End Full Stack - HTML,CSS,JavaScript : ☑️ <br>
 + Development Automation Python (Pyautogui) : ☑️ <br>
